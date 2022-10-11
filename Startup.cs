@@ -49,7 +49,16 @@ namespace iapex
                 };
             });
 
-            services.AddDbContext<DataContext>(p => p.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+            var pgUserId = "drwvjfmjqkkpwv";
+            var pgPassword = "d323432421e2df0c17e0f5b8aaa27fd1569fae04ccd63e88984d875d936deec3";
+            var pgHost = "ec2-18-209-78-11.compute-1.amazonaws.com";
+            var pgPort = "5432";
+            var pgDatabase = "d35l4vv15dbn2v";
+
+            var connStr = $"Server={pgHost};Port={pgPort};User Id={pgUserId};Password={pgPassword};Database={pgDatabase}";
+
+            services.AddDbContext<DataContext>(p => p.UseNpgsql(connStr));
+            //services.AddDbContext<DataContext>(p => p.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllers();
             services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
             {

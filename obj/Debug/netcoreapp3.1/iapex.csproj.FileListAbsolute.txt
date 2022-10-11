@@ -1,0 +1,140 @@
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\iapex.exe
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\iapex.deps.json
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\iapex.runtimeconfig.json
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\iapex.runtimeconfig.dev.json
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\iapex.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\iapex.pdb
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.csproj.AssemblyReference.cache
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.AssemblyInfoInputs.cache
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.AssemblyInfo.cs
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.csproj.CoreCompileInputs.cache
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.MvcApplicationPartsAssemblyInfo.cache
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\staticwebassets\iapex.StaticWebAssets.Manifest.cache
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.RazorTargetAssemblyInfo.cache
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.dll
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.pdb
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.genruntimeconfig.cache
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Alejandro\api\iapex\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Alejandro\api\iapex\obj\Debug\netcoreapp3.1\iapex.csproj.CopyComplete
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\iapex.exe
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\iapex.deps.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\iapex.runtimeconfig.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\iapex.runtimeconfig.dev.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\iapex.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\iapex.pdb
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.csproj.AssemblyReference.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.AssemblyInfoInputs.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.AssemblyInfo.cs
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.csproj.CoreCompileInputs.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\staticwebassets\iapex.StaticWebAssets.Manifest.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\staticwebassets\iapex.StaticWebAssets.xml
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\scopedcss\bundle\iapex.styles.css
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.RazorTargetAssemblyInfo.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.csproj.CopyComplete
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.pdb
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex\obj\Debug\netcoreapp3.1\iapex.genruntimeconfig.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\iapex.exe
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\iapex.deps.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\iapex.runtimeconfig.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\iapex.runtimeconfig.dev.json
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\iapex.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\iapex.pdb
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.csproj.AssemblyReference.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.AssemblyInfoInputs.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.AssemblyInfo.cs
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.csproj.CoreCompileInputs.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\staticwebassets\iapex.StaticWebAssets.Manifest.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\staticwebassets\iapex.StaticWebAssets.xml
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\scopedcss\bundle\iapex.styles.css
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.RazorTargetAssemblyInfo.cache
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.csproj.CopyComplete
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.dll
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.pdb
+C:\Users\WorkTool LAP\Desktop\Proyecto IAPEX\API\iapex-api\obj\Debug\netcoreapp3.1\iapex.genruntimeconfig.cache
